@@ -1,0 +1,3 @@
+C:/Users/Jeet/Desktop/Renderers C++/RayTracing/build/CMakeFiles/RayTracingInOneWeekend.dir
+C:/Users/Jeet/Desktop/Renderers C++/RayTracing/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jeet/Desktop/Renderers C++/RayTracing/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\USERS\JEET\DESKTOP\RENDERERS C++\RAYTRACING\BUILD\CMAKEFILES\057D71D2A36382AD26C86B77FC8DCCDD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Jeet/Desktop/Renderers C++/RayTracing" "-BC:/Users/Jeet/Desktop/Renderers C++/RayTracing/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Jeet/Desktop/Renderers C++/RayTracing/build/RayTracingInOneWeekend.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
